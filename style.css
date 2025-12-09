@@ -1,0 +1,11 @@
+.switch {
+    background-color: black;
+    color: white;
+    background-image: url(img/Goingdark.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    opacity: 0.4;              
+    z-index: 999;
+
+}
