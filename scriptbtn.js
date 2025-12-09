@@ -16,9 +16,6 @@ Survol.addEventListener("mouseleave", () => {
     Survol.style.width = "100px";
 });
 
-
-
-
 deplacement.addEventListener("mouseleave", () => {
      deplacement.style.transform = "translateX(10000%)"
 });
